@@ -115,7 +115,6 @@ app.Run();
 
 
 
-
 "Authentication": {
     "Domain": "core-functionality.us.auth0.com",
     "ClientId": "6ILhAyeQgslhMPexSdP240I9XjBZ45FV",
