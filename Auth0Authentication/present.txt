@@ -112,3 +112,16 @@ app.Run();
         }
     }
 }*/
+
+
+
+
+"Authentication": {
+    "Domain": "core-functionality.us.auth0.com",
+    "ClientId": "6ILhAyeQgslhMPexSdP240I9XjBZ45FV",
+    "Audience": "https://core-functionality.us.auth0.com/api/v2/",
+    "AuthClientId": "ASoLQujFjzrOhUKfLs2H8jBZdgr5Kpqn",
+    "AuthClientSecret": "4dMtYLsi0MfBSUpjNpdZIEZOk7HHrsLVD8h3QxljvIFlqVwtUkvrHRs6zuvNLSzA",
+    "AuthGrantType": "client_credentials"
+  },
+  
